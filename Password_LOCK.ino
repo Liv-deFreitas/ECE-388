@@ -1,3 +1,12 @@
+/*This code was taken from Arduino website
+    || @file Keypad Password
+    || @version 1.0
+    || @author Andrew Mascolo
+    || @date May 7, 2013
+    ||
+    || @description
+    || Simple use of keypad, password and LCD
+*/
 
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
